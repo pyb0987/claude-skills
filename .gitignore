@@ -1,0 +1,3 @@
+# Overlays and run logs stay local: they hold project-specific details.
+local.md
+runs.jsonl
